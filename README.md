@@ -1,0 +1,2 @@
+# orsi-beadando
+osztott rendszerek
