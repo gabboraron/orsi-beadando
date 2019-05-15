@@ -44,3 +44,5 @@ Készíts `MusicBoxClient` klienst, amely képes csatlakozni a portra, és a par
   - A metódusok első paramétere adja meg, melyik hang szóljon. A `C` hang kódja `60`, innen minden lépés egy félhangnyi távolságra van: `C#` kódja `61`, `Bb/-1` kódja `59`, `Db/1` kódja `73`...
 
 Új dal és dalszöveg feltöltése szokásos konzolos klienssel (PuTTY vagy telnet) tehető meg, de igény szerint szabad hozzá saját kliensprogramot készíteni.
+
+A `MIDI` kódok listája itt: [www.inspiredacoustics.com](http://www.inspiredacoustics.com/en/MIDI_note_numbers_and_center_frequencies)
